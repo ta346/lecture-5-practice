@@ -21,6 +21,8 @@ summary(cars)
 
 ![Cornell University](https://business.cornell.edu/wp-content/uploads/sites/2/2018/03/cornell-university-featured.jpg)
 
+![Cornell University Logo ](https://theccwh.org/wp-content/uploads/2016/11/cornell-logo-3.gif)
+
 ## Including Plots
 
 You can also embed plots, for example:
