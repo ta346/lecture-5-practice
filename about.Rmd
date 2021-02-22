@@ -1,0 +1,12 @@
+---
+title: "about.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About us 
+
+We are making a website and adding `about us` page. 
