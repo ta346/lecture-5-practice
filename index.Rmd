@@ -20,6 +20,7 @@ summary(cars)
 ```
 
 ![Cornell University](https://business.cornell.edu/wp-content/uploads/sites/2/2018/03/cornell-university-featured.jpg)
+
 ## Including Plots
 
 You can also embed plots, for example:
