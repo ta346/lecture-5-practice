@@ -18,14 +18,25 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
+Introduction
+
+
 
 ![Cornell University](https://business.cornell.edu/wp-content/uploads/sites/2/2018/03/cornell-university-featured.jpg)
 
-![Cornell University Logo ](https://theccwh.org/wp-content/uploads/2016/11/cornell-logo-3.gif)
+
+
+
 
 ## Including Plots
 
-You can also embed plots, for example:
+![Cornell University Logo ](https://theccwh.org/wp-content/uploads/2016/11/cornell-logo-3.gif)
+
+The Cornell logo and seal should always be reproduced at a size that maintains the integrity of the mark and yields clean, legible lettering and art detail.
+
+![](https://brand.cornell.edu/assets/images/examples/lockup/cornell_lockup_parts.svg)
+
+
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
