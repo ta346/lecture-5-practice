@@ -48,4 +48,20 @@ coronavirus %>%
   ggplot() +
   geom_line(mapping = aes(x = date, y = cases, color = country))
 
-a
+# lesson 8 ----------------------------------------------------------------
+
+skim(coronavirus)
+coronavirus_ttd %>%
+  mutate(deathrate = round(death/confirmed, 2))
+
+coronavirus %>%
+  filter(type == "confirmed") %>%
+  summarize(sum = sum(cases))
+
+coronavirus %>%
+  filter(type == "confirmed") %>%
+  group_by(date)%>%
+  summarize(sum_cases = sum(cases),
+            mean_cases = mean(cases),
+                              n = n())
+
